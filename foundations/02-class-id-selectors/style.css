@@ -1,0 +1,19 @@
+.oneThreeFive {
+    background-color: rgb(246, 172, 172);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#twoID {
+    color: blue;
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#fourID {
+    background-color: rgb(198, 246, 172);
+    font-size: 24px;
+    font-weight: 700;
+}
