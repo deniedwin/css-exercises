@@ -1,19 +1,19 @@
-.oneThreeFive {
-    background-color: rgb(246, 172, 172);
+.odd {
+    background-color: pink;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-#twoID {
+.even {
     color: blue;
     font-size: 36px;
 }
 
-.three {
+.odd.three {
     font-size: 24px;
 }
 
-#fourID {
-    background-color: rgb(198, 246, 172);
+#even {
+    background-color: rgb(116, 255, 116);
     font-size: 24px;
     font-weight: 700;
 }
