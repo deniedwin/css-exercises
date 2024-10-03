@@ -1,3 +1,8 @@
+/*adding comment to css*/
+/* *{
+  box-sizing: border-box;
+} */
+
 body {
   background: #eee;
   font-family: sans-serif;
@@ -7,28 +12,26 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
-  border: red solid;
+  padding: 8px;
+  /*width card = 400+pad+pad = 416px*/
 }
 
 .title {
   background: #e3f4ff;
-  font-size: 16px;
-  border: red solid;
-  margin: 8px;
+  margin: 0 0 8px 0;
   padding: 8px;
+  font-size: 16px;
 }
 
 .content {
   background: #e3f4ff;
-  border: red solid;
-  margin: 8px;
-  padding: 8px;
+  margin: 0 0 8px 0;
+  padding: 16px 8px;
 }
 
 .button-container {
   background: #e3f4ff;
-  border: red solid;
-  margin: 8px;
+  margin: 0px;
   padding: 8px;
   text-align: center;
 }
@@ -36,8 +39,7 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
-  border: red solid;
   display: block;
-  margin: auto;
-  padding: 8px 24px 8px 24px;
+  margin: 0 auto;
+  padding: 8px 24px;
 }
