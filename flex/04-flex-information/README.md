@@ -11,9 +11,16 @@ For this one you will need to edit the HTML a little bit too. We can't be making
 ### Self Check
 
 - All items are centered on the page (horizontally, not vertically).
+check
 - The title is centered on the page.
+check
 - There is 32px between the title and the 'items.'
+check
 - There is 52px between each item.
+check
 - The items are arranged horizontally on the page.
+check
 - The items are only 200px wide and the text wraps.
+check
 - The item text is centered.
+check
